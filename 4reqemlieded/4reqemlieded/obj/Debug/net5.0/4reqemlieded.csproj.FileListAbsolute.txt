@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.exe
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.deps.json
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.runtimeconfig.json
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.dll
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\ref\4reqemlieded.dll
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\bin\Debug\net5.0\4reqemlieded.pdb
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.dll
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\ref\4reqemlieded.dll
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.pdb
+C:\Users\Qasimov\source\repos\4reqemlieded\4reqemlieded\obj\Debug\net5.0\4reqemlieded.genruntimeconfig.cache
